@@ -20,7 +20,11 @@ This is the official implementation of *MORN: Molecular Property Prediction Base
 
 
 ## Installation
+<<<<<<< HEAD
 ```bash
+=======
+```python
+>>>>>>> 9dafe01 (add some files)
 # create a new environment
 $ conda create --name morn python=3.10
 $ conda activate morn
