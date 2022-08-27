@@ -20,7 +20,6 @@ This is the official implementation of *MORN: Molecular Property Prediction Base
 
 
 ## Installation
-<<<<<<< HEAD
 ```bash
 =======
 ```python
