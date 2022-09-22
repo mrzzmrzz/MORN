@@ -28,7 +28,7 @@ conda activate morn
 # install requirements
 pip install -r requirements.txt
 
-clone the source code of MORN
+# clone the source code of MORN
 git clone https://github.com/Mrz-zz/MORN
 cd MORN
 ```
