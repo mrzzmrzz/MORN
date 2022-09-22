@@ -22,15 +22,15 @@ This is the official implementation of *MORN: Molecular Property Prediction Base
 ## Installation
 ```bash
 # create a new environment
-$ conda create --name morn python=3.10
-$ conda activate morn
+conda create --name morn python=3.10
+conda activate morn
 
 # install requirements
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 
-# clone the source code of MORN
-$ git clone https://github.com/Mrz-zz/MORN
-$ cd MORN
+clone the source code of MORN
+git clone https://github.com/Mrz-zz/MORN
+cd MORN
 ```
 
 
